@@ -11,7 +11,7 @@ export default function Home() {
             Welcome to Htee Market. This is only the beginning!
             .
           </li>
-          <li>Developed by Dominic Apolo</li>
+          <li>Developed by Dominic The Developer</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
