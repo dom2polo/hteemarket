@@ -9,7 +9,6 @@ export default function Home() {
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
             Welcome to Htee Market. This is only the beginning!
-            .
           </li>
           <li>Developed by Dominic The Developer</li>
         </ol>
